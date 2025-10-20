@@ -24,7 +24,6 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="32f2b491-4ec9-4767-8617-9578347d4fad">
-      <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
       <console name="pp_2_2_1_spring_hibernate" type="STANDARD" schema="mysql" session="Main" />
     </connection>
   </component>
@@ -33,7 +32,6 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
-      <object connection-id="32f2b491-4ec9-4767-8617-9578347d4fad" object-ref="consoles/Connection" />
       <object connection-id="32f2b491-4ec9-4767-8617-9578347d4fad" object-ref="consoles/pp_2_2_1_spring_hibernate" />
     </open-files>
   </component>
