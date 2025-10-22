@@ -1,3 +1,21 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# IDE settings
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Compiled class files
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Other common ignores
+*.log
+.DS_Store
+*.tmp
